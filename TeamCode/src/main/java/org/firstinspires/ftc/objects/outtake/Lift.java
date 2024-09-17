@@ -39,7 +39,7 @@ public class Lift {
     private ElapsedTime timer = new ElapsedTime();
     private boolean ok;
 
-    private final int LOWER_BOUND = 10;
+    private final int LOWER_BOUND = 0;
     private final int MIDDLE_BOUND = 1300;
     private final int UPPER_BOUND = 2000;
     private final int AUTO_FINISH = 0;

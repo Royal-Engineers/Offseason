@@ -35,7 +35,7 @@ public class Extendo {
 
     private final int LOWER_BOUND = 15;
     private final int UPPER_BOUND = 1680;
-    public static int TRANSFER_POSITION = 55;
+    public static int TRANSFER_POSITION = 50;
 
     private final int PICKUP_AUTO_RED_CASE3 = 1100;
     private final int PICKUP_AUTO_RED_CASE2 = 700;
